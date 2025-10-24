@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/09923545-3e2d-4017-8b8a-d8faaa3dfe6e" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/018f9f3b-8afd-4bd5-b49f-f9da8332c657" />
 s project demonstrates a simple yet powerful AI Agent workflow built using n8n and OpenAI. The AI Agent can process inputs, make API calls, and generate intelligent responses based on user data or triggers.
 
 🚀 Features
